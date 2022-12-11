@@ -11,7 +11,6 @@
 #include "Config.h"
 #include "CurrentState.h"
 #include "pins.h"
-#include "Config.h"
 #include "PinControl.h"
 
 class F44Handler : public GCodeHandler
