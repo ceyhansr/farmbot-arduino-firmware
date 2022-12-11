@@ -11,7 +11,6 @@
 #include "Config.h"
 #include "CurrentState.h"
 #include "pins.h"
-#include "Config.h"
 #include "Movement.h"
 
 class F13Handler : public GCodeHandler
